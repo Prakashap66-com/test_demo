@@ -1,3 +1,2 @@
 Hello Devops Engineer!
-
-Welcome to thw world of Github!
+Welcome to the world of Github!
